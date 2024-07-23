@@ -1,0 +1,300 @@
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cover . [+ RES]
+%mor:	verb|cover-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	car [/] car . [+ RES]
+%mor:	noun|car .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mom wash Eve pot .
+%mor:	noun|mom noun|wash noun|Eve noun|pot .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	Cromer truck .
+%mor:	noun|Cromer noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look Cromer .
+%mor:	verb|look-Fin-Imp-S noun|Cromer .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	in the truck . [+ RES]
+%mor:	adp|in det|the-Def-Art noun|truck .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	<he [?] sitting he [?] sitting> [/] he [?] sitting . [+ RES]
+%mor:	pron|he-Prs-Nom-S3 verb|sit-Ger-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	sitting . [+ RES]
+%mor:	noun|sitting .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no one sitting car . [+ RES]
+%mor:	det|no-Def pron|one-Neg-S1 verb|sit-Ger-S noun|car .
+%gra:	1|2|DET 2|4|ROOT 3|2|ACL 4|3|OBJ 5|2|PUNCT
+*CHI:	man truck .
+%mor:	noun|man noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	in there . [+ RES]
+%mor:	adp|in adv|there .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Sue (.) more cocoa . [+ RES]
+%mor:	noun|Sue adj|more-Cmp-S1 noun|cocoa .
+%gra:	1|3|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	more cocoa .
+%mor:	adj|more-Cmp-S1 noun|cocoa .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve more cocoa .
+%mor:	noun|Eve adj|more-Cmp-S1 noun|cocoa .
+%gra:	1|2|OBL-NPMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	another crayon . [+ IMIT]
+%mor:	det|another-Def noun|crayon .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	(a)nother car . [+ IMIT]
+%mor:	det|another-Def noun|car .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	lion turtle . [+ IMIT]
+%mor:	noun|lion noun|turtle .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	you play lion turtle .
+%mor:	pron|you-Prs-Nom-S2 verb|play-Fin-Ind-Pres-S2 noun|lion noun|turtle .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	that lion that ?
+%mor:	det|that-Def-Dem noun|lion pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*CHI:	you pipe .
+%mor:	pron|you-Prs-Nom-S2 verb|pipe-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	present Grannie_Hart . [+ IMIT]
+%mor:	verb|present-Fin-Imp-S noun|GrannieHart .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	package baby Sarah . [+ IMIT]
+%mor:	noun|package noun|baby noun|Sarah .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that package Grannie_Hart .
+%mor:	det|that-Def-Dem noun|package noun|GrannieHart .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	what xxx that ? [+ bch]
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	let('s) fix a kangaroo . [+ IMIT]
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|fix-Inf-S det|a-Ind-Art noun|kangaroo .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	teddy_bear baby Sarah . [+ RES]
+%mor:	noun|teddybear noun|baby noun|Sarah .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*CHI:	I have it ?
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	sweater . [+ RES]
+%mor:	noun|sweater .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hat Eve .
+%mor:	noun|hat noun|Eve .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	envelope . [+ IMIT]
+%mor:	noun|envelope .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kangaroo . [+ RES]
+%mor:	noun|kangaroo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a kangaroo .
+%mor:	det|a-Ind-Art noun|kangaroo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	kangaroo got little feet .
+%mor:	noun|kangaroo verb|get-Fin-Ind-Past-S3 adj|little-Pos-S1 noun|foot-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	another kangaroo .
+%mor:	det|another-Def noun|kangaroo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx Mommy tummy . [+ bch] [+ IMIT]
+%mor:	noun|mommy noun|tummy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	thank_you . [+ IMIT]
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wow . [+ IMIT]
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	other pencil .
+%mor:	adj|other-Pos-S1 noun|pencil .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	other pencil back .
+%mor:	adj|other-Pos-S1 noun|pencil noun|back .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that another one .
+%mor:	sconj|that det|another-Def noun|one .
+%gra:	1|3|DET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	another one .
+%mor:	det|another-Def noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	in a minute .
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	ice_cream cone .
+%mor:	noun|icecream noun|cone .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	ice_cream cone on the table .
+%mor:	noun|icecream noun|cone adp|on det|the-Def-Art noun|table .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*CHI:	eat ice_cream cone in highchair .
+%mor:	verb|eat-Fin-Imp-S noun|icecream noun|cone adp|in noun|highchair .
+%gra:	1|5|ROOT 2|3|COMPOUND 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*CHI:	he go firetruck in firetruck .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 noun|firetruck adp|in noun|firetruck .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	man go in the firetruck .
+%mor:	noun|man verb|go-Fin-Imp-S adp|in det|the-Def-Art noun|firetruck .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	man (.) walking .
+%mor:	noun|man noun|walking .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	going see Jack an(d) Jerry . [+ RES]
+%mor:	verb|go-Ger-S verb|see-Inf-S noun|Jack cconj|and noun|Jerry .
+%gra:	1|5|ROOT 2|1|XCOMP 3|2|OBJ 4|5|CC 5|3|CONJ 6|1|PUNCT
+*CHI:	where bell ?
+%mor:	adv|where noun|bell ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	that a wagon . [+ IMIT]
+%mor:	sconj|that det|a-Ind-Art noun|wagon .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	I pull it .
+%mor:	pron|I-Prs-Nom-S1 verb|pull-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I pull .
+%mor:	pron|I-Prs-Nom-S1 verb|pull-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	that my bead .
+%mor:	sconj|that pron|my-Prs-Gen-S1 noun|bead .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	fire [/] firetruck .
+%mor:	noun|firetruck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two pocketbooks .
+%mor:	num|two noun|pocketbook-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx Cathy . [+ bch]
+%mor:	noun|Cathy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cromer have no pocket .
+%mor:	noun|Cromer verb|have-Fin-Ind-Pres-P3 det|no-Def noun|pocket .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx have no pocket . [+ bch] [+ RES]
+%mor:	verb|have-Fin-Imp-S det|no-Def noun|pocket .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Fraser . [+ RES]
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	have pipe . [+ RES]
+%mor:	verb|have-Fin-Imp-S noun|pipe .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Fraser pipe . [+ RES]
+%mor:	noun|Fraser noun|pipe .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	that Eve pipe . [+ RES]
+%mor:	sconj|that noun|Eve noun|pipe .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there cheese [/] cheese sandwich .
+%mor:	pron|there-Prs-Gen-S3 noun|cheese noun|sandwich .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	just cheese . [+ IMIT]
+%mor:	adv|just noun|cheese .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	more piece of cheese .
+%mor:	adj|more-Cmp-S1 noun|piece adp|of noun|cheese .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	more [/] more piece a [: of] [* fil] cheese (.) „ please . [+ RES]
+%mor:	adj|more-Cmp-S1 noun|piece adp|of noun|cheese cm|end intj|please .
+%gra:	1|2|AMOD 2|6|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT 6|2|DISCOURSE 7|2|PUNCT
+*CHI:	more (.) more (.) more cheese . [+ RES]
+%mor:	adv|more adv|more adj|more-Cmp-S1 noun|cheese .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	that Mama cheese . [+ IMIT]
+%mor:	sconj|that noun|mama noun|cheese .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	more . [+ RES]
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	blasting [/] blasting . [+ IMIT]
+%mor:	verb|blast-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	napkin .
+%mor:	noun|napkin .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	loud boom . [+ IMIT]
+%mor:	adj|loud-Pos-S1 noun|boom .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	<another Kix> [/] another Kix [/] Kix . [+ RES]
+%mor:	det|another-Def noun|Kix .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	more (.) Kix . [+ RES]
+%mor:	adj|more-Cmp-S1 noun|Kix .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Kix . [+ RES]
+%mor:	noun|Kix .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a Kix . [+ RES]
+%mor:	det|a-Ind-Art noun|Kix .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<Kix Kix> [/] Kix all done .
+%mor:	noun|Kix det|all-Def verb|do-Part-Past-S .
+%gra:	1|3|ROOT 2|1|DET 3|1|ACL 4|1|PUNCT
+*CHI:	chocolate . [+ IMIT]
+%mor:	noun|chocolate .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	breakfast . [+ IMIT]
+%mor:	noun|breakfast .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	for breakfast have Kix .
+%mor:	adp|for noun|breakfast verb|have-Fin-Ind-Pres-S3 noun|Kix .
+%gra:	1|2|CASE 2|3|OBL 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	Kix chocolate [/] chocolate ice xxx cream . [+ bch]
+%mor:	noun|Kix noun|chocolate noun|ice noun|cream .
+%gra:	1|4|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	straight . [+ IMIT]
+%mor:	adv|straight .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where xxx Eve kak@c ? [+ bch]
+%mor:	adv|where noun|Eve noun|kak ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that kak@c . [+ RES]
+%mor:	det|that-Def-Dem noun|kak .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	(.) t(r)uck on the table . [+ EIMIT]
+%mor:	noun|truck adp|on det|the-Def-Art noun|table .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*CHI:	where other car .
+%mor:	adv|where adj|other-Pos-S1 noun|car .
+%gra:	1|3|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	ice_cream . [+ IMIT]
+%mor:	noun|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Eve finger . [+ bch]
+%mor:	noun|Eve noun|finger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	stop picking . [+ IMIT]
+%mor:	verb|stop-Fin-Imp-S noun|pick .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	chocolate ice_cream .
+%mor:	noun|chocolate noun|icecream .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Sue put away .
+%mor:	noun|Sue verb|put-Fin-Ind-Past-S3 adv|away .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	oh ‡ chocolate (.) ice_cream .
+%mor:	intj|oh cm|begin noun|chocolate noun|icecream .
+%gra:	1|4|DISCOURSE 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	chocolate ice_cream dessert .
+%mor:	noun|chocolate noun|icecream noun|dessert .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT

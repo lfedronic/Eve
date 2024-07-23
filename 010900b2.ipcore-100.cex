@@ -1,0 +1,300 @@
+*CHI:	drink (a)gain .
+%mor:	verb|drink-Fin-Imp-S adv|again .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	Eve have it .
+%mor:	noun|Eve verb|have-Fin-Ind-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	hafta wait . [+ IMIT]
+%mor:	intj|hafta verb|wait-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	Fraser <taperecorder> [/] taperecorder .
+%mor:	noun|Fraser noun|taperecorder .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	taperecorder no more animal_cracker .
+%mor:	noun|taperecorder det|no-Def adj|more-Cmp-S1 noun|animalcracker .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	buy A_and_P .
+%mor:	verb|buy-Fin-Imp-S noun|AandP .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	go (a)round [/] (a)round . [+ IMIT]
+%mor:	verb|go-Fin-Imp-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	Eve turn now . [+ IMIT]
+%mor:	noun|Eve noun|turn adv|now .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby Sarah drink out milk bottle .
+%mor:	noun|baby noun|Sarah verb|drink-Fin-Imp-S adp|out noun|milk noun|bottle .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|COMPOUND 4|3|COMPOUND-PRT 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*CHI:	drink out [//] grape juice out from cup .
+%mor:	verb|drink-Fin-Imp-S noun|grape noun|juice adp|out adp|from noun|cup .
+%gra:	1|6|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|COMPOUND-PRT 5|6|CASE 6|1|OBL 7|1|PUNCT
+*CHI:	xxx Fraser .
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he drink coffee out cup .
+%mor:	pron|he-Prs-Nom-S3 verb|drink-Fin-Ind-Pres-S3 noun|coffee adp|out noun|cup .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|COMPOUND 4|3|COMPOUND-PRT 5|2|OBJ 6|2|PUNCT
+*CHI:	that Fraser cup right there .
+%mor:	sconj|that noun|Fraser noun|cup adv|right adv|there .
+%gra:	1|5|MARK 2|3|COMPOUND 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	sugar .
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser drink it .
+%mor:	noun|Fraser verb|drink-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I drinking .
+%mor:	pron|I-Prs-Nom-S1 verb|drink-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	mixing .
+%mor:	noun|mixing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	coffee .
+%mor:	noun|coffee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no . [+ RES]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx buy more A_and_P .
+%mor:	verb|buy-Fin-Imp-S adj|more-Cmp-S1 noun|AandP .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	I making [/] I making [/] making cookie .
+%mor:	pron|I-Prs-Nom-S1 pron|I-Prs-Nom-S1 verb|make-Ger-S noun|cookie .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	remembering other happy day .
+%mor:	verb|remember-Ger-S adj|other-Pos-S1 adj|happy-Pos-S1 noun|day .
+%gra:	1|4|ROOT 2|4|AMOD 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	xxx turn page .
+%mor:	verb|turn-Inf-S noun|page .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	drinking .
+%mor:	noun|drinking .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that baby Sarah bottle ?
+%mor:	det|that-Def-Dem noun|baby noun|Sarah noun|bottle ?
+%gra:	1|4|DET 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	dog barking .
+%mor:	noun|dog noun|barking .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	paper .
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no [/] (.) no xxx piece a [: of] paper .
+%mor:	det|no-Def noun|piece adp|of noun|paper .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+*CHI:	wanna write Fraser paper .
+%mor:	intj|wanna verb|write-Fin-Imp-S noun|Fraser noun|paper .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	wanna write xxx paper .
+%mor:	intj|wanna verb|write-Fin-Imp-S noun|paper .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	hi Fraser hi Cromer .
+%mor:	intj|hi noun|Fraser intj|hi noun|Cromer .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|DISCOURSE 4|2|FLAT 5|2|PUNCT
+*CHI:	hi (.) Fraser xxx Mama do ?
+%mor:	intj|hi noun|Fraser noun|Mama verb|do-Fin-Ind-Pres-S3 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|2|FLAT 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx Mama do .
+%mor:	noun|mama verb|do-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	that Eve pencil right there .
+%mor:	sconj|that noun|Eve noun|pencil adv|right adv|there .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*CHI:	see Fraser .
+%mor:	verb|see-Fin-Imp-S noun|Fraser .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	I see you . [+ IMIT]
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	space suit .
+%mor:	noun|space noun|suit .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve space suit .
+%mor:	noun|Eve noun|space noun|suit .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Danny .
+%mor:	noun|Danny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dere [: there] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that's Mister Mark . [+ IMIT]
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 noun|Mister noun|Mark .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*CHI:	clop@o [/] clop@o .
+%mor:	noun|clop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where Clip_clop ?
+%mor:	adv|where noun|Clipclop ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	dat [: that] Clip_clop .
+%mor:	sconj|that noun|Clipclop .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Clip_clop . [+ IMIT]
+%mor:	noun|Clipclop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dat [: that] ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that Mister Mark .
+%mor:	sconj|that noun|Mister noun|Mark .
+%gra:	1|2|MARK 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*CHI:	xxx not Danny .
+%mor:	part|not noun|Danny .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Mister Mark .
+%mor:	noun|Mister noun|Mark .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	came (.) take sugar .
+%mor:	verb|come-Fin-Ind-Past-S1 verb|take-Inf-S noun|sugar .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	more grape juice .
+%mor:	adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx go get some more .
+%mor:	verb|go-Fin-Imp-S verb|get-Fin-Imp-S det|some-Def adj|more-Cmp-S1 .
+%gra:	1|4|ROOT 2|1|PARATAXIS 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	get a stool .
+%mor:	verb|get-Fin-Imp-S det|a-Ind-Art noun|stool .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	let me have it .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|have-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	graham_cracker .
+%mor:	noun|grahamcracker .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby Sarah lay down baby Sarah .
+%mor:	noun|baby noun|Sarah verb|lay-Fin-Ind-Past-S3 adp|down noun|baby noun|Sarah .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|3|OBJ 6|5|FLAT 7|3|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx carry baby Sarah .
+%mor:	verb|carry-Fin-Imp-S noun|baby noun|Sarah .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	a baby .
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	carrying a baby Sarah .
+%mor:	verb|carry-Ger-S det|a-Ind-Art noun|baby noun|Sarah .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|OBJ 5|1|PUNCT
+*CHI:	Eve xxx de [: the] radiator .
+%mor:	noun|Eve det|the-Def-Art noun|radiator .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Sue help Eve .
+%mor:	noun|Sue verb|help-Fin-S noun|Eve .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	radiator .
+%mor:	noun|radiator .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sugar in juice .
+%mor:	noun|sugar adp|in noun|juice .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	grape juice .
+%mor:	noun|grape noun|juice .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	bring more Cromer coffee .
+%mor:	verb|bring-Fin-Imp-S adj|more-Cmp-S1 noun|Cromer noun|coffee .
+%gra:	1|4|ROOT 2|4|AMOD 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	xxx &~ing Eve .
+%mor:	noun|Eve .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx do ringing Eve .
+%mor:	aux|do-Fin-Ind-Pres-S verb|ring-Ger-S noun|Eve .
+%gra:	1|2|AUX 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	ringing Eve .
+%mor:	verb|ring-Ger-S noun|Eve .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx ring .
+%mor:	noun|ring .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Eve ring .
+%mor:	noun|Eve noun|ring .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	finish grape juice .
+%mor:	noun|finish noun|grape noun|juice .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	put xxx it [?] .
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx fall .
+%mor:	noun|fall .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	it xxx fall down .
+%mor:	pron|it-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	fall down .
+%mor:	verb|fall-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	be horsie .
+%mor:	aux|be-Fin-Imp-S adj|horsie-Pos-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	be Clip_clop .
+%mor:	aux|be-Fin-Imp-S noun|Clipclop .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve be Goldrush .
+%mor:	noun|Eve aux|be-Fin-S noun|Goldrush .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	be Goldrush .
+%mor:	aux|be-Fin-Imp-S noun|Goldrush .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	Marcia Goldrush .
+%mor:	noun|Marcia noun|Goldrush .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	Becky .
+%mor:	noun|Becky .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a Becky .
+%mor:	det|a-Ind-Art noun|Becky .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a ba@c key .
+%mor:	det|a-Ind-Art noun|bene noun|key .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx Quita .
+%mor:	noun|Quita .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	dis [: this] ?
+%mor:	pron|this-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in Papa study .
+%mor:	adp|in noun|Papa noun|study .
+%gra:	1|3|CASE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	put xxx corner .
+%mor:	verb|put-Fin-Imp-S noun|corner .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx corner .
+%mor:	noun|corner .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx what happen ?
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Pres-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	that hammer . [+ RES]
+%mor:	det|that-Def-Dem noun|hammer .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve name Linda .
+%mor:	noun|Eve noun|name noun|Linda .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	look (.) fall down .
+%mor:	verb|look-Fin-Imp-S noun|fall adv|down .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|ADVMOD 4|1|PUNCT
+*CHI:	xxx <here here here> [/] here . [+ RES]
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	screwdriver .
+%mor:	noun|screwdriver .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve name red bicycle .
+%mor:	noun|Eve noun|name adj|red-Pos-S1 noun|bicycle .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|AMOD 4|2|CONJ 5|2|PUNCT
+*CHI:	dat [: that] Fraser cup coffee .
+%mor:	sconj|that noun|Fraser noun|cup noun|coffee .
+%gra:	1|4|MARK 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT

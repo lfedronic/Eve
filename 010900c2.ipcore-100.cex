@@ -1,0 +1,300 @@
+*CHI:	play it .
+%mor:	verb|play-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	play Eve broom .
+%mor:	verb|play-Inf-S noun|Eve noun|broom .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	turn knob .
+%mor:	verb|turn-Inf-S noun|knob .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bump@o crash .
+%mor:	noun|bump noun|crash .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Sue put back .
+%mor:	noun|Sue verb|put-Fin-Ind-Past-S3 adv|back .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	Sue put Eve brush away .
+%mor:	noun|Sue verb|put-Fin-Ind-Past-S3 noun|Eve noun|brush adv|away .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	hi „ baby Sarah .
+%mor:	intj|hi cm|end noun|baby noun|Sarah .
+%gra:	1|4|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|3|FLAT 5|1|PUNCT
+*CHI:	there baby Sarah .
+%mor:	pron|there-Prs-Gen-S3 noun|baby noun|Sarah .
+%gra:	1|2|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	baby .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	get Fraser .
+%mor:	verb|get-Fin-Imp-S noun|Fraser .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	I run get Fraser .
+%mor:	pron|I-Prs-Nom-S1 verb|run-Fin-Ind-Pres-S1 verb|get-Inf-S noun|Fraser .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*CHI:	one day soon .
+%mor:	num|one noun|day adv|soon .
+%gra:	1|2|NUMMOD 2|3|OBL-TMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	at you one day . [+ IMIT]
+%mor:	adp|at pron|you-Prs-Acc-S2 num|one noun|day .
+%gra:	1|2|CASE 2|4|ROOT 3|4|NUMMOD 4|2|NMOD-TMOD 5|2|PUNCT
+*CHI:	Fraser unhappy . [+ IMIT]
+%mor:	noun|Fraser adj|unhappy-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	baby one day soon .
+%mor:	noun|baby num|one noun|day adv|soon .
+%gra:	1|4|ROOT 2|3|NUMMOD 3|1|NMOD-TMOD 4|1|ADVMOD 5|1|PUNCT
+*CHI:	big blob .
+%mor:	adj|big-Pos-S1 noun|blob .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	going xxx see Jack xxx Jerry . [+ bch]
+%mor:	verb|go-Ger-S verb|see-Inf-S noun|Jack noun|Jerry .
+%gra:	1|4|ROOT 2|1|XCOMP 3|2|OBJ 4|3|FLAT 5|1|PUNCT
+*CHI:	Fraser read Humm .
+%mor:	noun|Fraser verb|read-Fin-Ind-Past-S3 noun|Humm .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Humm .
+%mor:	noun|Humm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no . [+ RES]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	going xxx Humm . [+ bch] [+ RES]
+%mor:	verb|go-Ger-S noun|Humm .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	pet hamster . [+ IMIT]
+%mor:	noun|pet noun|hamster .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) ‡ Fraser read it . [+ RES]
+%mor:	intj|no cm|begin noun|Fraser verb|read-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	Fraser read the book . [+ RES]
+%mor:	noun|Fraser verb|read-Fin-Ind-Past-S3 det|the-Def-Art noun|book .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	Eve reading book . [+ IMIT]
+%mor:	noun|Eve noun|reading noun|book .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that Eve grape juice . [+ RES]
+%mor:	sconj|that noun|Eve noun|grape noun|juice .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx drink . [+ bch] [+ RES]
+%mor:	verb|drink-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser drink all tea .
+%mor:	noun|Fraser verb|drink-Fin-Ind-Pres-S det|all-Def noun|tea .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	no Fraser drink all tea . [+ IMIT]
+%mor:	det|no-Def noun|Fraser verb|drink-Fin-Imp-S det|all-Def noun|tea .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	children coming down stair .
+%mor:	noun|child-Plur verb|come-Ger-S adp|down noun|stair .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	Jody coming down the stair .
+%mor:	noun|Jody verb|come-Ger-S adp|down det|the-Def-Art noun|stair .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	children coming down the stair .
+%mor:	noun|child-Plur verb|come-Ger-S adp|down det|the-Def-Art noun|stair .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	Cromer fish . [+ RES]
+%mor:	noun|Cromer noun|fish .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Papa fish . [+ RES]
+%mor:	noun|Papa noun|fish .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Mom put the jammie .
+%mor:	noun|mom verb|put-Fin-Ind-Past-S3 det|the-Def-Art noun|jammie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	put the jammie on there .
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|jammie adp|on adv|there .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*CHI:	baby [/] baby Sarah do it in bed .
+%mor:	noun|baby noun|Sarah verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|in noun|bed .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	put napkin away .
+%mor:	verb|put-Fin-Imp-S noun|napkin adv|away .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	putting napkin away .
+%mor:	verb|put-Ger-S noun|napkin adv|away .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser (.) Eve put napkin wastebasket .
+%mor:	noun|Fraser noun|Eve verb|put-Fin-Ind-Past-S3 noun|napkin noun|wastebasket .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*CHI:	byebye (.) „ Mama .
+%mor:	noun|Byebye cm|end noun|mama .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+*CHI:	milk that milk .
+%mor:	noun|milk det|that-Def-Dem noun|milk .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	put napkin in the wastebasket . [+ RES]
+%mor:	verb|put-Fin-Imp-S noun|napkin adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	I put napkin in the wastebasket . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 noun|napkin adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	put me in the wastebasket .
+%mor:	verb|put-Fin-Imp-S pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	I put me in the wastebasket . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	no ‡ put me in the wastebasket .
+%mor:	intj|no cm|begin verb|put-Fin-Imp-S pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*CHI:	I writing Fraser pencil .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Ger-S noun|Fraser noun|pencil .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	here (.) Fraser .
+%mor:	adv|here noun|Fraser .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	that Eve .
+%mor:	sconj|that noun|Eve .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	that Fraser . [+ RES]
+%mor:	sconj|that noun|Fraser .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah ‡ I put me in the wastebasket .
+%mor:	intj|yeah cm|begin pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*CHI:	I put Mommy in the wastebasket .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 noun|Mommy adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*CHI:	baa@o [/] (.) baa@o [/] (.) baa@o .
+%mor:	noun|baa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sheep .
+%mor:	noun|sheep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	play Eve be sheep .
+%mor:	verb|play-Fin-Imp-S noun|Eve aux|be-Inf-S noun|sheep .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+*CHI:	pillow .
+%mor:	noun|pillow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pillow on the floor .
+%mor:	noun|pillow adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*CHI:	Sue put pillow back .
+%mor:	noun|Sue verb|put-Fin-Ind-Past-S3 noun|pillow adv|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	Sue put (th)em back by the radiator .
+%mor:	noun|Sue verb|put-Fin-Ind-Past-S3 pron|they-Prs-Acc-P3 adv|back adp|by det|the-Def-Art noun|radiator .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	Sue do it .
+%mor:	noun|Sue verb|do-Fin-Ind-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	we both put (th)em back . [+ IMIT]
+%mor:	pron|we-Prs-Nom-P1 det|both-Def verb|put-Fin-Ind-Past-P1 pron|they-Prs-Acc-P3 adv|back .
+%gra:	1|3|NSUBJ 2|1|DET 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	Mom right back .
+%mor:	noun|mom adv|right adv|back .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	Sue (.) Eve climbing on the stool .
+%mor:	noun|Sue noun|Eve verb|climb-Ger-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*CHI:	you put milk in it .
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 noun|milk adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	spilled the milk .
+%mor:	verb|spill-Fin-Ind-Past-S1 det|the-Def-Art noun|milk .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cut Fraser paper .
+%mor:	verb|cut-Fin-Imp-S noun|Fraser noun|paper .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	scissor(s) .
+%mor:	noun|scissors-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put paper towel in the wastebasket .
+%mor:	verb|put-Fin-Imp-S noun|paper noun|towel adp|in det|the-Def-Art noun|wastebasket .
+%gra:	1|6|ROOT 2|3|COMPOUND 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mom (.) ‡ paper towel (.) all wiped up .
+%mor:	noun|mom cm|begin noun|paper noun|towel det|all-Def-Tot verb|wipe-Fin-Ind-Past-S3 adp|up .
+%gra:	1|3|COMPOUND 2|1|PUNCT 3|4|COMPOUND 4|6|NSUBJ 5|6|NSUBJ 6|7|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*CHI:	milk all wiped up .
+%mor:	noun|milk det|all-Def verb|wipe-Fin-Ind-Past-S3 adp|up .
+%gra:	1|3|NSUBJ 2|1|DET 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*CHI:	I coming upstair(s) .
+%mor:	pron|I-Prs-Nom-S1 verb|come-Ger-S adv|upstairs .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	in a minute .
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	baby Sarah cry .
+%mor:	noun|baby noun|Sarah verb|cry-Fin-Ind-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	baby Sarah crying .
+%mor:	noun|baby noun|Sarah verb|cry-Ger-S .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx baby Sarah ? [+ bch]
+%mor:	noun|baby noun|Sarah ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	that Fraser coffee . [+ RES]
+%mor:	sconj|that noun|Fraser noun|coffee .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	yes . [+ RES]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that Fraser briefcase . [+ RES]
+%mor:	sconj|that noun|Fraser noun|briefcase .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	left Cromer briefcase home . [+ RES]
+%mor:	verb|leave-Fin-Ind-Past-S1 noun|Cromer noun|briefcase adv|home .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	Fraser have not boot .
+%mor:	noun|Fraser aux|have-Fin-Ind-Pres-P3 part|not verb|boot-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	where crayon ?
+%mor:	adv|where noun|crayon ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	there's a crayon .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|crayon .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Valentine . [+ IMIT]
+%mor:	noun|Valentine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that Beck Valentine . [+ IMIT]
+%mor:	sconj|that noun|Beck noun|Valentine .
+%gra:	1|2|MARK 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*CHI:	doing Mama ?
+%mor:	verb|do-Ger-S noun|mama ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	I rocking baby Sarah too .
+%mor:	pron|I-Prs-Nom-S1 verb|rock-Ger-S noun|baby noun|Sarah adv|too .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	that Valentine .
+%mor:	sconj|that noun|Valentine .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	that's a hat .
+%mor:	pron|that-Dem-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|hat .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	I put it back .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adv|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I carry it .
+%mor:	pron|I-Prs-Nom-S1 verb|carry-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	tea hot .
+%mor:	noun|tea adj|hot-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve burp .
+%mor:	noun|Eve noun|burp .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	fish are swimming .
+%mor:	noun|fish-Plur aux|be-Fin-Ind-Pres-P3 verb|swim-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*CHI:	a button .
+%mor:	det|a-Ind-Art noun|button .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT

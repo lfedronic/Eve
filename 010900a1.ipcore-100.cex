@@ -1,0 +1,300 @@
+*CHI:	yep sugar . [+ RES]
+%mor:	intj|yep noun|sugar .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	a cup .
+%mor:	det|a-Ind-Art noun|cup .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	sit down .
+%mor:	verb|sit-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	kiss it .
+%mor:	verb|kiss-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you wipe off . [+ IMIT]
+%mor:	pron|you-Prs-Nom-S2 verb|wipe-Fin-Ind-Pres-S2 adp|off .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	Mommy wipe xxx floor .
+%mor:	noun|Mommy noun|wipe noun|floor .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	grape juice all_gone .
+%mor:	noun|grape noun|juice noun|allgone .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy coffee . [+ RES]
+%mor:	noun|mommy noun|coffee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	one Mommy . [+ IMIT]
+%mor:	num|one noun|mommy .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser .
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	milk (.) Mommy xxx grape juice more .
+%mor:	noun|milk noun|mommy noun|grape noun|juice adj|more-Cmp-S1 .
+%gra:	1|5|ROOT 2|5|COMPOUND 3|4|COMPOUND 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	&~ha not spill this . [+ IMIT]
+%mor:	part|not verb|spill-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I see fire .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|fire .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	heat right (.) right fire .
+%mor:	verb|heat-Inf-S adv|right adj|right-Pos-S1 noun|fire .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*CHI:	give Eve paper .
+%mor:	verb|give-Fin-Imp-S noun|Eve noun|paper .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	baby Sarah sleeping .
+%mor:	noun|baby noun|Sarah noun|sleeping .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	write a@l b@l c@l Papa .
+%mor:	verb|write-Fin-Imp-S det|a-Ind-Art noun|benefit noun|c noun|Papa .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|3|FLAT 5|3|APPOS 6|1|PUNCT
+*CHI:	a@l b@l (.) c@l .
+%mor:	det|a-Ind-Art noun|benefit noun|c .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah a@l (.) b@l (.) a@l b@l c@l . [+ RES]
+%mor:	intj|yeah det|a-Ind-Art noun|benefit det|a-Ind-Art noun|benefit noun|c .
+%gra:	1|3|DISCOURSE 2|3|DET 3|6|ROOT 4|5|DET 5|6|COMPOUND 6|3|APPOS 7|3|PUNCT
+*CHI:	b@l . [+ RES]
+%mor:	noun|benefit .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	o@l . [+ RES]
+%mor:	noun|o .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wait a minute another one Fraser do it .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute det|another-Def num|one noun|Fraser verb|do-Fin-S pron|it-Prs-Acc-S3 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|6|NUMMOD 6|7|NSUBJ 7|1|PARATAXIS 8|7|OBJ 9|1|PUNCT
+*CHI:	draw pencil xxx a pencil a@l (.) b@l (.) c@l . [+ RES]
+%mor:	verb|draw-Fin-Imp-S noun|pencil det|a-Ind-Art noun|pencil det|a-Ind-Art noun|benefit noun|c .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|7|DET 6|7|COMPOUND 7|1|OBL-TMOD 8|1|PUNCT
+*CHI:	Eve .
+%mor:	noun|Eve .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	now . [+ IMIT]
+%mor:	adv|now .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a@l b@l c@l there again . [+ RES]
+%mor:	det|a-Ind-Art noun|benefit noun|c adv|there adv|again .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*CHI:	another one .
+%mor:	det|another-Def noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<xxx out scissor(s)> [//] Eve out scissor(s) .
+%mor:	noun|Eve adp|out noun|scissors-Plur .
+%gra:	1|3|COMPOUND 2|1|COMPOUND-PRT 3|3|ROOT 4|3|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx write no . [+ IMIT]
+%mor:	verb|write-Fin-Imp-S intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	no . [+ IMIT]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no (.) Fraser . [+ IMIT]
+%mor:	intj|no noun|Fraser .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve write paper .
+%mor:	noun|Eve verb|write-Fin-Imp-S noun|paper .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Fraser no (.) Fraser .
+%mor:	noun|Fraser det|no-Def-Art noun|Fraser .
+%gra:	1|3|ROOT 2|3|DET 3|1|APPOS 4|1|PUNCT
+*CHI:	doing Eve . [+ IMIT]
+%mor:	verb|do-Ger-S noun|Eve .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	draw lady .
+%mor:	verb|draw-Fin-Imp-S noun|lady .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	draw lady again draw my moo@o [/] moo@o here .
+%mor:	verb|draw-Fin-Imp-S noun|lady adv|again verb|draw-Fin-Imp-S pron|my-Prs-Gen-S1 noun|moo adv|here .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PARATAXIS 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|1|PUNCT
+*CHI:	old Donald .
+%mor:	adj|old-Pos-S1 noun|Donald .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	draw old Donald .
+%mor:	verb|draw-Fin-Imp-S adj|old-Pos-S1 noun|Donald .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*CHI:	him writing .
+%mor:	pron|he-Prs-Acc-S3 noun|writing .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve writing .
+%mor:	noun|Eve noun|writing .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve writing a@l b@l c@l . [+ RES]
+%mor:	noun|Eve verb|write-Ger-S det|a-Ind-Art noun|benefit noun|c .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	again .
+%mor:	adv|again .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah another one . [+ RES]
+%mor:	intj|yeah det|another-Def noun|one .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	look there [/] there .
+%mor:	verb|look-Fin-Imp-S adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	baby Sarah .
+%mor:	noun|baby noun|Sarah .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	(.) sleeping . [+ RES]
+%mor:	noun|sleeping .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	crying . [+ IMIT]
+%mor:	verb|cry-Ger-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look <another one> [/] another one .
+%mor:	verb|look-Fin-Imp-S det|another-Def noun|one .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	moo@o [/] moo@o .
+%mor:	noun|moo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there's a moo@o [/] moo@o .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|moo .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	Mammy xxx writing .
+%mor:	noun|mammy noun|writing .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	writing . [+ RES]
+%mor:	noun|writing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy ?
+%mor:	noun|Mommy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put dry diaper baby Sarah bottom . [+ IMIT]
+%mor:	verb|put-Fin-Imp-S adj|dry-Pos-S1 noun|diaper noun|baby noun|Sarah noun|bottom .
+%gra:	1|6|ROOT 2|6|AMOD 3|4|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|1|OBJ 7|1|PUNCT
+*CHI:	only paper . [+ IMIT]
+%mor:	adv|only noun|paper .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	more [/] more ? [+ IMIT]
+%mor:	adj|more-Cmp-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx ride horsie . [+ RES]
+%mor:	noun|ride noun|horsie .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	Eve show Fraser horsie .
+%mor:	noun|Eve verb|show-Fin-Ind-S noun|Fraser noun|horsie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	Fraser pencil . [+ RES]
+%mor:	noun|Fraser noun|pencil .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve laying down .
+%mor:	noun|Eve verb|lay-Ger-S adp|down .
+%gra:	1|3|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|1|PUNCT
+*CHI:	Mom cover Eve .
+%mor:	noun|mom verb|cover-Fin-Ind-Pres-S3 noun|Eve .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	sleep . [+ IMIT]
+%mor:	noun|sleep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	thought going sleep . [+ IMIT]
+%mor:	verb|think-Fin-Ind-Past-S1 verb|go-Ger-S noun|sleep .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	byebye (.) Fraser . [+ IMIT]
+%mor:	noun|Byebye noun|Fraser .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	byebye (.) Papa .
+%mor:	noun|Byebye noun|Papa .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	byebye .
+%mor:	noun|Byebye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	byebye (.) Sarah baby a nice nap .
+%mor:	noun|Byebye noun|Sarah noun|baby det|a-Ind-Art adj|nice-Pos-S1 noun|nap .
+%gra:	1|6|ROOT 2|1|FLAT 3|1|FLAT 4|6|DET 5|6|AMOD 6|1|APPOS 7|1|PUNCT
+*CHI:	all done nap .
+%mor:	det|all-Def verb|do-Part-Past-S noun|nap .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	night_night later .
+%mor:	noun|nightnight adv|late .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	little tiny one .
+%mor:	adj|little-Pos-S1 adj|tiny-Pos-S1 noun|one .
+%gra:	1|3|AMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	want Mommy Mom carry Eve .
+%mor:	verb|want-Fin-Imp-S noun|Mommy noun|mom verb|carry-Inf-S noun|Eve .
+%gra:	1|5|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+*CHI:	a tiny one .
+%mor:	det|a-Ind-Art adj|tiny-Pos-S1 noun|one .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	a bowe(l) .
+%mor:	det|a-Ind-Art noun|bowel .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yep ‡ a bowel_move(ment) . [+ RES]
+%mor:	intj|yep cm|begin det|a-Ind-Art noun|bowelmovement .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	Papa change her . [+ RES]
+%mor:	noun|Papa verb|change-Fin-Ind-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx Eve xxx have a bowel_move(ment) . [+ RES]
+%mor:	noun|Eve verb|have-Fin-Ind-Pres-S det|a-Ind-Art noun|bowelmovement .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx buyer .
+%mor:	noun|buyer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	going buyer . [+ RES]
+%mor:	verb|go-Ger-S noun|buyer .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Papa . [+ RES]
+%mor:	noun|Papa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a penny . [+ RES]
+%mor:	det|a-Ind-Art noun|penny .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	fire . [+ RES]
+%mor:	noun|fire .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in fire . [+ RES]
+%mor:	adp|in noun|fire .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx right here .
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	table . [+ RES]
+%mor:	noun|table .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mama ? [+ RES]
+%mor:	noun|mama ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sarah . [+ IMIT]
+%mor:	noun|Sarah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	down a minute . [+ RES]
+%mor:	adv|down det|a-Ind-Art noun|minute .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-TMOD 4|1|PUNCT
+*CHI:	you penny .
+%mor:	pron|you-Prs-Gen-S2 noun|penny .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Mama upstair(s) food baby Sarah .
+%mor:	noun|mama noun|upstairs noun|food noun|baby noun|Sarah .
+%gra:	1|4|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|5|ROOT 5|4|FLAT 6|4|PUNCT
+*CHI:	oh write penny .
+%mor:	intj|oh verb|write-Fin-Imp-S noun|penny .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	write penny .
+%mor:	verb|write-Fin-Imp-S noun|penny .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	going byebye (.) Papa .
+%mor:	verb|go-Ger-S noun|Byebye noun|Papa .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	Eve see Mom baby Sarah .
+%mor:	noun|Eve verb|see-Fin-Imp-S noun|mom noun|baby noun|Sarah .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|COMPOUND 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	come move horsie . [+ IMIT]
+%mor:	verb|come-Fin-Imp-S noun|move noun|horsie .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT

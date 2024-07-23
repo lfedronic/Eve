@@ -1,0 +1,300 @@
+*CHI:	I want some grape juice .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|some-Def noun|grape noun|juice .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	what's this ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	and what's that ?
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|CC 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+*CHI:	no . [+ RES]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want a cookie .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|cookie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I want some cookie . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|some-Def noun|cookie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	chocolate . [+ RES]
+%mor:	noun|chocolate .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx eat it in the kitchen .
+%mor:	verb|eat-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	Sue (.) Sue (.) lady came with Fraser .
+%mor:	noun|Sue noun|Sue noun|lady verb|come-Fin-Ind-Past-S3 adp|with noun|Fraser .
+%gra:	1|3|COMPOUND 2|1|FLAT 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	hm: ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	you and I have grape juice .
+%mor:	pron|you-Prs-Nom-S2 cconj|and pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S2 noun|grape noun|juice .
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|6|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|PUNCT
+*CHI:	I xxx again .
+%mor:	pron|I-Prs-Nom-S1 adv|again .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I peeking xxx again . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|peek-Ger-S adv|again .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	lady name [/] name Gloria .
+%mor:	noun|lady noun|name noun|Gloria .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Gloria . [+ IMIT]
+%mor:	noun|Gloria .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want my glass .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|glass .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	want a glass .
+%mor:	verb|want-Fin-Imp-S det|a-Ind-Art noun|glass .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	cmon . [+ IMP]
+%mor:	intj|cmon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cmon (.) get my glass . [+ RES]
+%mor:	intj|cmon verb|get-Fin-Imp-S pron|my-Prs-Gen-S1 noun|glass .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	Sue (.) that Gloria .
+%mor:	noun|Sue sconj|that noun|Gloria .
+%gra:	1|3|ROOT 2|3|MARK 3|1|APPOS 4|1|PUNCT
+*CHI:	not go see Gloria .
+%mor:	part|not verb|go-Fin-Imp-S verb|see-Fin-Imp-S noun|Gloria .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+*CHI:	just go see Fraser .
+%mor:	adv|just verb|go-Fin-Imp-S verb|see-Fin-Imp-S noun|Fraser .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+*CHI:	that Gloria .
+%mor:	sconj|that noun|Gloria .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	where Gloria ?
+%mor:	adv|where noun|Gloria ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	on couch . [+ RES]
+%mor:	adp|on noun|couch .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	it my airplane . [+ RES]
+%mor:	pron|it-Prs-Nom-S3 pron|my-Prs-Gen-S1 noun|airplane .
+%gra:	1|3|NSUBJ 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*CHI:	uhhuh . [+ RES]
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Pap fixed it for me . [+ RES]
+%mor:	noun|pap verb|fix-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	Papa [/] Papa found it for me (.) in the paper .
+%mor:	noun|Papa verb|find-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|paper .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*CHI:	blue one on the table .
+%mor:	adj|blue-Pos-S1 noun|one adp|on det|the-Def-Art noun|table .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*CHI:	I did it . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	hi (.) Mommy .
+%mor:	intj|hi noun|Mommy .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	Papa xxx from picture . [+ RES]
+%mor:	noun|Papa adp|from noun|picture .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	a taperecorder . [+ RES]
+%mor:	det|a-Ind-Art noun|taperecorder .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	in bed . [+ RES]
+%mor:	adp|in noun|bed .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	goin(g) play with Becky .
+%mor:	verb|go-Ger-S noun|play adp|with noun|Becky .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	Cathy .
+%mor:	noun|Cathy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cathy and Becky will get better (.) and then I may play with them .
+%mor:	noun|Cathy cconj|and noun|Becky aux|will-Fin-S verb|get-Inf-S adj|good-Cmp-S1 cconj|and adv|then pron|I-Prs-Nom-S1 aux|may-Fin-S verb|play-Inf-S adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|AUX 5|13|ROOT 6|5|XCOMP 7|11|CC 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|5|CONJ 12|13|CASE 13|11|OBL 14|5|PUNCT
+*CHI:	I want more grape juice .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|AMOD 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	Sue want some your grape juice .
+%mor:	noun|Sue verb|want-Fin-Ind-Pres-S det|some-Def pron|your-Prs-Gen-S2 noun|grape noun|juice .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|NMOD-POSS 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+*CHI:	I want some o(f) yours .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|some-Def adp|of pron|yours-Prs-S2 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+*CHI:	a:h (.) I eating counter .
+%mor:	intj|ah pron|I-Prs-Nom-S1 verb|eat-Ger-S noun|counter .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	is [/] that a new kind of grape juice ?
+%mor:	sconj|that det|a-Ind-Art adj|new-Pos-S1 noun|kind adp|of noun|grape noun|juice ?
+%gra:	1|4|MARK 2|4|DET 3|4|AMOD 4|7|ROOT 5|7|CASE 6|7|COMPOUND 7|4|NMOD 8|4|PUNCT
+*CHI:	well where the other jar ?
+%mor:	intj|well adv|where det|the-Def-Art adj|other-Pos-S1 noun|jar ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	<that's my> [/] that my gingerbread man .
+%mor:	sconj|that pron|my-Prs-Gen-S1 adj|gingerbread-Pos-S1 noun|man .
+%gra:	1|4|MARK 2|4|NMOD-POSS 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	it not there .
+%mor:	pron|it-Prs-Nom-S3 part|not adv|there .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	he put he hat on . [+ RES]
+%mor:	pron|he-Prs-Nom-S3 verb|put-Fin-Ind-Past-S3 pron|he-Prs-Nom-S3 noun|hat adp|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|COMPOUND-PRT 6|2|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there's another hat .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def noun|hat .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*CHI:	one woman and a man xxx .
+%mor:	num|one noun|woman cconj|and det|a-Ind-Art noun|man .
+%gra:	1|2|NUMMOD 2|5|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+*CHI:	they trying to catch him .
+%mor:	pron|they-Prs-Nom-P3 verb|try-Ger-S part|to verb|catch-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	a horse . [+ RES]
+%mor:	det|a-Ind-Art noun|horse .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	and this is a cow .
+%mor:	cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cow .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*CHI:	running .
+%mor:	noun|running .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a man . [+ RES]
+%mor:	det|a-Ind-Art noun|man .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	there a farmer .
+%mor:	pron|there-Int-S1 det|a-Ind-Art noun|farmer .
+%gra:	1|3|EXPL 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	they have their hats on .
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|hat-Plur adv|on .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	and a gingerbread bread man .
+%mor:	cconj|and det|a-Ind-Art noun|gingerbread noun|bread noun|man .
+%gra:	1|5|CC 2|5|DET 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	and this is the gingerbread bread man .
+%mor:	cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|gingerbread noun|bread noun|man .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|COMPOUND 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+*CHI:	going fox's tail . [+ RES]
+%mor:	verb|go-Ger-S noun|fox~part|s noun|tail .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|2|CASE 4|1|OBJ 5|1|PUNCT
+*CHI:	he going xxx <and he> [/] and he won't see him anymore .
+%mor:	pron|he-Prs-Nom-S3 verb|go-Ger-S cconj|and pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|see-Inf-S pron|he-Prs-Acc-S3 adv|anymore .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|7|CC 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|2|CONJ 8|7|OBJ 9|7|ADVMOD 10|2|PUNCT
+*CHI:	now he back .
+%mor:	adv|now pron|he-Prs-Nom-S3 adv|back .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	he on a [/] a fox's nose .
+%mor:	pron|he-Prs-Nom-S3 adp|on det|a-Ind-Art noun|fox~part|s noun|nose .
+%gra:	1|6|ROOT 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|1|NMOD 7|1|PUNCT
+*CHI:	he open he mouth .
+%mor:	pron|he-Prs-Nom-S3 verb|open-Fin-Ind-Pres-S3 pron|he-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx going in the fox's tummy .
+%mor:	verb|go-Ger-S adp|in det|the-Def-Art noun|fox~part|s noun|tummy .
+%gra:	1|6|ROOT 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|1|OBL 7|1|PUNCT
+*CHI:	now this .
+%mor:	adv|now pron|this-Dem-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	a burro .
+%mor:	det|a-Ind-Art noun|burro .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	he a burro . [+ RES]
+%mor:	pron|he-Prs-Nom-S3 det|a-Ind-Art noun|burro .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	it came from my book [/] book box .
+%mor:	pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adp|from pron|my-Prs-Gen-S1 noun|book noun|box .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|NMOD-POSS 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*CHI:	here clothes .
+%mor:	adv|here noun|clothes-Plur .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	clothes .
+%mor:	noun|clothes-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	they're all around the yard .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|all adp|around det|the-Def-Art noun|yard .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	Mitchell . [+ RES]
+%mor:	noun|Mitchell .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this . [+ RES]
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where Papa ?
+%mor:	adv|where noun|Papa ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	in there . [+ RES]
+%mor:	adp|in adv|there .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	he xxx working .
+%mor:	pron|he-Prs-Nom-S3 verb|work-Ger-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	an(d) I gone and I was gone away .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1 cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S3 verb|go-Part-Past-S adv|away .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|7|CC 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|3|CONJ 8|7|ADVMOD 9|3|PUNCT
+*CHI:	to get a new(s)paper . [+ RES]
+%mor:	part|to verb|get-Inf-S det|a-Ind-Art noun|newspaper .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	where grape juice ?
+%mor:	adv|where noun|grape noun|juice ?
+%gra:	1|3|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	there it is .
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	see pictures of Papa . [+ RES]
+%mor:	verb|see-Fin-Imp-S noun|picture-Plur adp|of noun|Papa .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|1|PUNCT
+*CHI:	he [/] he [= mother] wiping up that I spill .
+%mor:	pron|he-Prs-Nom-S3 verb|wipe-Ger-S adp|up sconj|that pron|I-Prs-Nom-S1 verb|spill-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|COMPOUND-PRT 4|6|MARK 5|6|NSUBJ 6|2|CCOMP 7|2|PUNCT
+*CHI:	hi (.) Mama .
+%mor:	intj|hi noun|mama .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	there [/] there's a banana there .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|banana adv|there .
+%gra:	1|2|EXPL 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|PUNCT
+*CHI:	and how_about this one ?
+%mor:	cconj|and verb|howabout-Fin-Imp-S det|this-Def-Dem noun|one ?
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	it xxx Humm .
+%mor:	pron|it-Prs-Nom-S3 noun|Humm .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	<I put> [/] I put these books on the pillow .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 det|this-Def-Dem noun|book-Plur adp|on det|the-Def-Art noun|pillow .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*CHI:	a hamster . [+ RES]
+%mor:	det|a-Ind-Art noun|hamster .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Humm . [+ RES]
+%mor:	noun|Humm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	he eating a banana . [+ RES]
+%mor:	pron|he-Prs-Nom-S3 verb|eat-Ger-S det|a-Ind-Art noun|banana .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	he eating parsley . [+ RES]
+%mor:	pron|he-Prs-Nom-S3 verb|eat-Ger-S noun|parsley .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	parsley . [+ RES]
+%mor:	noun|parsley .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	girl . [+ IMIT]
+%mor:	noun|girl .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	me . [+ RES]
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eating (.) a [?] bacon .
+%mor:	verb|eat-Ger-S det|a-Ind-Art noun|bacon .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	eating lunch . [+ RES]
+%mor:	verb|eat-Ger-S noun|lunch .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	that falled [: fell] [* +ed] down .
+%mor:	pron|that-Dem-S1 verb|fall-Fin-Ind-Past-S3 adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	fall down .
+%mor:	verb|fall-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT

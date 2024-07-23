@@ -1,0 +1,300 @@
+*CHI:	more grape juice .
+%mor:	adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no Eve play bouillon cube .
+%mor:	det|no-Def noun|Eve noun|play noun|bouillon noun|cube .
+%gra:	1|5|DET 2|3|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	a block first . [+ IMIT]
+%mor:	det|a-Ind-Art noun|block adj|first-Pos-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser read Eve Lassie .
+%mor:	noun|Fraser verb|read-Fin-Ind-Past-S3 noun|Eve noun|Lassie .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|3|FLAT 5|2|PUNCT
+*CHI:	that Lassie . [+ IMIT]
+%mor:	sconj|that noun|Lassie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Fraser gink [: drink] Lassie .
+%mor:	noun|Fraser verb|drink-Fin-Ind-S noun|Lassie .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	taperecorder .
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser taperecorder floor .
+%mor:	noun|Fraser noun|taperecorder noun|floor .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Mom get red bicycle .
+%mor:	noun|mom verb|get-Fin-Ind-Pres-S3 adj|red-Pos-S1 noun|bicycle .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*CHI:	here . [+ RES]
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what doing (.) Mommy ?
+%mor:	pron|what-Int-S1 verb|do-Ger-S noun|Mommy ?
+%gra:	1|3|ROOT 2|1|ACL 3|2|OBJ 4|1|PUNCT
+*CHI:	make tapioca (.) lunch . [+ IMIT]
+%mor:	verb|make-Fin-Imp-S noun|tapioca noun|lunch .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	Fraser .
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cromer .
+%mor:	noun|Cromer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	on Wednesday . [+ RES]
+%mor:	adp|on noun|Wednesday .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve jump (.) Mommy kitchen .
+%mor:	noun|Eve verb|jump-Fin-Imp-S noun|Mommy noun|kitchen .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	go jump living_room . [+ IMIT]
+%mor:	verb|go-Fin-Imp-S noun|jump noun|livingroom .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	jump living_room . [+ IMIT]
+%mor:	verb|jump-Inf-S noun|livingroom .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Mommy make (.) tapioca lunch .
+%mor:	noun|Mommy verb|make-Fin-Imp-S noun|tapioca noun|lunch .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	Mom (.) Mommy make Eve tapioca lunch .
+%mor:	noun|mom noun|Mommy verb|make-Fin-Ind-Pres-S3 noun|Eve noun|tapioca noun|lunch .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|6|ROOT 4|6|COMPOUND 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*CHI:	Eve make xxx tapioca .
+%mor:	noun|Eve verb|make-Fin-Imp-S noun|tapioca .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	my tapioca .
+%mor:	pron|my-Prs-Gen-S1 noun|tapioca .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve [/] Eve making tapioca .
+%mor:	noun|Eve verb|make-Ger-S noun|tapioca .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	tapioca .
+%mor:	noun|tapioca .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mom [/] Mom make a tapioca . [+ RES]
+%mor:	noun|mom verb|make-Fin-Ind-Pres-P3 det|a-Ind-Art noun|tapioca .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hot . [+ RES]
+%mor:	adj|hot-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve tapioca . [+ RES]
+%mor:	noun|Eve noun|tapioca .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	hot tapioca . [+ IMIT]
+%mor:	adj|hot-Pos-S1 noun|tapioca .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx water hot . [+ IMIT]
+%mor:	noun|water adj|hot-Pos-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve tapioca hot . [+ IMIT]
+%mor:	noun|Eve noun|tapioca adj|hot-Pos-S1 .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	and cool .
+%mor:	cconj|and adj|cool-Pos-S1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve play bouillon cube .
+%mor:	noun|Eve noun|play noun|bouillon noun|cube .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	help me .
+%mor:	verb|help-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	in box . [+ IMIT]
+%mor:	adp|in noun|box .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve cry .
+%mor:	noun|Eve verb|cry-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve put blocks Mommy .
+%mor:	noun|Eve verb|put-Fin-Imp-S noun|block-Plur noun|Mommy .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	tinkertoy doing there ?
+%mor:	noun|tinkertoy verb|do-Ger-S adv|there ?
+%gra:	1|3|ROOT 2|1|ACL 3|2|ADVMOD 4|1|PUNCT
+*CHI:	there more .
+%mor:	adv|there adj|more-Cmp-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	tinkertoy .
+%mor:	noun|tinkertoy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	by . [+ IMIT]
+%mor:	adp|by .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	by rockchair [: rocking_chair] . [+ IMIT]
+%mor:	adp|by noun|rockingchair .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	get it . [+ IMIT]
+%mor:	verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	I seed [: saw] [* +ed] it .
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve play the bouillon cube .
+%mor:	noun|Eve verb|play-Fin-Imp-S det|the-Def-Art noun|bouillon noun|cube .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	Mom open .
+%mor:	noun|mom verb|open-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	drop .
+%mor:	verb|drop-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	op(en) (.) bouillon cube . [+ RES]
+%mor:	adj|open-Pos-S1 noun|bouillon noun|cube .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	op(en) it (.) bouillon cube .
+%mor:	verb|open-Fin-Imp-S pron|it-Prs-Acc-S3 noun|bouillon noun|cube .
+%gra:	1|4|ROOT 2|1|IOBJ 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	xxx more bouillon cube .
+%mor:	adj|more-Cmp-S1 noun|bouillon noun|cube .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	empty . [+ IMIT]
+%mor:	adj|empty-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	come back .
+%mor:	verb|come-Fin-Imp-S adv|back .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	Eve find top .
+%mor:	noun|Eve verb|find-Fin-Imp-S noun|top .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	where top ?
+%mor:	adv|where noun|top ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Fraser coat .
+%mor:	noun|Fraser noun|coat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	want find top . [+ RES]
+%mor:	verb|want-Fin-Imp-S verb|find-Inf-S noun|top .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+*CHI:	no (.) a top .
+%mor:	det|no-Def det|a-Ind-Art noun|top .
+%gra:	1|3|DET 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	see it . [+ IMIT]
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	that other one . [+ IMIT]
+%mor:	det|that-Def-Dem adj|other-Pos-S1 noun|one .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	get back .
+%mor:	verb|get-Fin-Imp-S adv|back .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	<hi hi> [/] hi . [+ IMIT]
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx bouillon cube . [+ RES]
+%mor:	noun|bouillon noun|cube .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve sit Mom lap .
+%mor:	noun|Eve verb|sit-Fin-Imp-S2 noun|mom noun|lap .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	Eve sit on Mommy lap .
+%mor:	noun|Eve verb|sit-Fin-Imp-S adp|on noun|Mommy noun|lap .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|COMPOUND 5|2|OBL 6|2|PUNCT
+*CHI:	by me . [+ IMIT]
+%mor:	adp|by pron|I-Prs-Acc-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	big one . [+ IMIT]
+%mor:	adj|big-Pos-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	a big xxx stool . [+ IMIT]
+%mor:	det|a-Ind-Art adj|big-Pos-S1 noun|stool .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	Pap study .
+%mor:	noun|pap noun|study .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	the taperecorder . [+ IMIT]
+%mor:	det|the-Def-Art noun|taperecorder .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve stool .
+%mor:	noun|Eve noun|stool .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	right taperecorder . [+ IMIT]
+%mor:	adj|right-Pos-S1 noun|taperecorder .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	big xxx stool . [+ IMIT]
+%mor:	adj|big-Pos-S1 noun|stool .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	by taperecorder .
+%mor:	adp|by noun|taperecorder .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	that a one . [+ IMIT]
+%mor:	sconj|that det|a-Ind-Art num|one .
+%gra:	1|3|MARK 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	the banjo .
+%mor:	det|the-Def-Art noun|banjo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve sit down .
+%mor:	noun|Eve verb|sit-Fin-Imp-S adp|down .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	Mommy stool .
+%mor:	noun|Mommy noun|stool .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve came back .
+%mor:	noun|Eve verb|come-Fin-Ind-Past-S3 adv|back .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	orange peel . [+ IMIT]
+%mor:	adj|orange-Pos-S1 noun|peel .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	make cookie . [+ IMIT]
+%mor:	verb|make-Fin-Imp-S noun|cookie .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	make a gookie@c .
+%mor:	verb|make-Fin-Imp-S det|a-Ind-Art noun|gookie .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Eve sit bottom .
+%mor:	noun|Eve verb|sit-Fin-Imp-S2 noun|bottom .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mommy sit bottom .
+%mor:	noun|Mommy verb|sit-Fin-Ind-Pres-S noun|bottom .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	water . [+ RES]
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	came back .
+%mor:	verb|come-Fin-Ind-Past-S1 adv|back .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	cap(tai)n [/] (.) captain Bob . [+ RES]
+%mor:	noun|captain noun|Bob .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	on stool Mommy way .
+%mor:	adp|on noun|stool noun|Mommy noun|way .
+%gra:	1|2|CASE 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	own stool . [+ IMIT]
+%mor:	adj|own-Pos-S1 noun|stool .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy (.) help .
+%mor:	noun|Mommy verb|help-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve help . [+ RES]
+%mor:	noun|Eve noun|help .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	again .
+%mor:	adv|again .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	big self .
+%mor:	adj|big-Pos-S1 noun|self .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy sit Eve stool .
+%mor:	noun|Mommy verb|sit-Fin-Ind-S noun|Eve noun|stool .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	my Eve stool .
+%mor:	pron|my-Prs-Gen-S1 noun|Eve noun|stool .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	Fraser go sit right there .
+%mor:	noun|Fraser verb|go-Fin-Ind-Pres-S verb|sit-Inf-S adv|right adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|ADVMOD 5|3|ADVMOD 6|2|PUNCT
+*CHI:	I go get a pencil .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|get-Inf-S det|a-Ind-Art noun|pencil .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	get a pencil . [+ RES]
+%mor:	verb|get-Fin-Imp-S det|a-Ind-Art noun|pencil .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Fraser (.) I get some .
+%mor:	noun|Fraser pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|some-Def .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|3|OBJ 5|1|PUNCT
+*CHI:	Fraser (.) I get xxx a pencil .
+%mor:	noun|Fraser pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|a-Ind-Art noun|pencil .
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	that . [+ RES]
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I write there . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adv|there .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	look (.) Fraser . [+ RES]
+%mor:	verb|look-Fin-Imp-S noun|Fraser .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no ready yet .
+%mor:	det|no-Def adj|ready-Pos-S1 adv|yet .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	not go in there .
+%mor:	part|not verb|go-Fin-Imp-S adp|in adv|there .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	it falled [: fell] [* +ed] .
+%mor:	pron|it-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	I drinking grape [/] grape juice .
+%mor:	pron|I-Prs-Nom-S1 verb|drink-Ger-S noun|grape noun|juice .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	I write right there .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 adv|right adv|there .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*CHI:	I go write .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|write-Inf-S .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	I have fix Fraser paper .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|fix-Inf-S noun|Fraser noun|paper .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*CHI:	little piece o(f) fuzz <on Fra(ser)> [/] on Fraser paper .
+%mor:	adj|little-Pos-S1 noun|piece adp|of noun|fuzz adp|on noun|Fraser noun|paper .
+%gra:	1|2|AMOD 2|7|ROOT 3|4|CASE 4|2|NMOD 5|7|CASE 6|7|COMPOUND 7|4|NMOD 8|2|PUNCT
+*CHI:	I writing d@l a@l .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Ger-S noun|would det|a-Ind-Art .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*CHI:	Sue (.) <that Fra(ser)> [//] that one broke .
+%mor:	noun|Sue sconj|that num|one verb|break-Fin-Ind-Past-S3 .
+%gra:	1|4|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ACL 5|1|PUNCT
+*CHI:	<Fraser hafta get> [//] my pencil broke .
+%mor:	pron|my-Prs-Gen-S1 noun|pencil verb|break-Fin-Ind-Past-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	only Fraser's .
+%mor:	adv|only noun|Fraser~part|s .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	other pencil broke .
+%mor:	adj|other-Pos-S1 noun|pencil verb|break-Fin-Ind-Past-S3 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	Fraser put that in there .
+%mor:	noun|Fraser verb|put-Fin-Ind-Past-S3 pron|that-Dem-S1 adp|in adv|there .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	no (.) me .
+%mor:	intj|no pron|I-Prs-Acc-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser (.) taking it [/] it .
+%mor:	noun|Fraser verb|take-Ger-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Fraser (.) I put it in .
+%mor:	noun|Fraser pron|I-Prs-Nom-S1 verb|put-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adv|in .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	doo@c . [+ RES]
+%mor:	noun|doo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put the top back on . [+ RES]
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|top adv|back adv|on .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|ADVMOD 5|1|ADVMOD 6|1|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cream . [+ RES]
+%mor:	noun|cream .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look (.) Fraser (.) that a d@l f@l .
+%mor:	verb|look-Fin-Imp-S noun|Fraser sconj|that det|a-Ind-Art noun|would noun|f .
+%gra:	1|6|ROOT 2|1|OBJ 3|6|MARK 4|5|DET 5|6|COMPOUND 6|1|OBJ 7|1|PUNCT
+*CHI:	Dad come home .
+%mor:	noun|dad verb|come-Fin-Ind-Pres-S3 adv|home .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	Sue (.) get some pictures .
+%mor:	noun|Sue verb|get-Fin-Imp-S det|some-Def noun|picture-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	let me put [/] put it in the mailbox .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|mailbox .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+*CHI:	oh (.) Papa (.) take [/] take dolly coat off . [+ IMP]
+%mor:	intj|oh noun|Papa verb|take-Fin-Imp-S noun|dolly noun|coat adv|off .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	I playing with it .
+%mor:	pron|I-Prs-Nom-S1 verb|play-Ger-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*CHI:	Sue .
+%mor:	noun|Sue .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in Papa desk .
+%mor:	adp|in noun|Papa noun|desk .
+%gra:	1|3|CASE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Sue (.) we have a party .
+%mor:	noun|Sue pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art noun|party .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	Pap (.) you have fix other plate because it broke .
+%mor:	noun|pap pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 verb|fix-Inf-S adj|other-Pos-S1 noun|plate sconj|because pron|it-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3 .
+%gra:	1|9|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|3|XCOMP 5|6|AMOD 6|4|OBJ 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|1|PUNCT
+*CHI:	it broke .
+%mor:	pron|it-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	what that ?
+%mor:	det|what-Def-Int pron|that-Dem-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	shoe lace . [+ RES]
+%mor:	noun|shoe noun|lace .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Sue (.) you goin(g) read Hippity_Hop ?
+%mor:	noun|Sue pron|you-Prs-Nom-S2 verb|go-Ger-S verb|read-Fin-S noun|HippityHop ?
+%gra:	1|5|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|1|PARATAXIS 5|4|OBJ 6|1|PUNCT
+*CHI:	read Hippity_Hop . [+ RES]
+%mor:	verb|read-Fin-Imp-S noun|HippityHop .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	on Saturday . [+ RES]
+%mor:	adp|on noun|Saturday .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	I go bring it Hippity_Hop Saturday .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|bring-Inf-S pron|it-Prs-Acc-S3 noun|HippityHop noun|Saturday .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|XCOMP 4|3|OBJ 5|6|COMPOUND 6|3|OBL-TMOD 7|2|PUNCT
+*CHI:	in there .
+%mor:	adp|in adv|there .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	right there .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	look (.) Mommy .
+%mor:	verb|look-Fin-Imp-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	train . [+ RES]
+%mor:	noun|train .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh (.) it came apart .
+%mor:	intj|oh pron|it-Prs-Nom-S3 verb|come-Fin-Ind-Past-S3 adv|apart .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	that piece .
+%mor:	det|that-Def-Dem noun|piece .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	two that piece .
+%mor:	num|two pron|that-Rel-S1 noun|piece .
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-TMOD 4|1|PUNCT
+*CHI:	two [/] two piece that came &~ap [//] two that piece .
+%mor:	num|two noun|piece pron|that-Rel-S1 verb|come-Fin-Ind-Past-S3 num|two det|that-Def-Dem noun|piece .
+%gra:	1|2|NUMMOD 2|7|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|7|NUMMOD 6|7|DET 7|4|OBJ 8|2|PUNCT
+*CHI:	no (.) Mom do it for me . [+ RES]
+%mor:	det|no-Def noun|mom verb|do-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	Papa do it .
+%mor:	noun|Papa verb|do-Fin-Ind-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mom do it .
+%mor:	noun|mom verb|do-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	come apart again .
+%mor:	verb|come-Fin-Imp-S adv|apart adv|again .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	when xxx wake up a nap .
+%mor:	adv|when verb|wake-Fin-Imp-S adp|up det|a-Ind-Art noun|nap .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	Mom fix it for me .
+%mor:	noun|mom verb|fix-Inf-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	oh (.) where you coffee ?
+%mor:	intj|oh adv|where pron|you-Prs-Nom-S2 verb|coffee-Fin-Ind-Pres-S2 ?
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	you [/] you letter . [+ RES]
+%mor:	pron|you-Prs-Nom-S2 verb|letter-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	let me read it for you . [+ RES]
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|read-Inf-S pron|it-Prs-Acc-S3 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|1|PUNCT
+*CHI:	I have put that in there .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|put-Part-Past-S pron|that-Dem-S1 adp|in adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	you can't have another pocket in you pocket .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|have-Inf-S det|another-Def noun|pocket adp|in pron|you-Prs-Gen-S2 noun|pocket .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|4|PUNCT
+*CHI:	what that (.) Papa ?
+%mor:	pron|what-Int-S1 det|that-Def-Dem noun|Papa ?
+%gra:	1|3|ROOT 2|3|DET 3|1|NMOD-NPMOD 4|1|PUNCT
+*CHI:	we go put it in the mailbox .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 verb|put-Fin-Past-S pron|it-Prs-Acc-S3 adp|in det|the-Def-Art noun|mailbox .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|CCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*CHI:	we go put you glass in the mailbox .
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 verb|put-Fin-S pron|you-Prs-Acc-S2 noun|glass adp|in det|the-Def-Art noun|mailbox .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|2|PUNCT
+*CHI:	because . [+ RES]
+%mor:	sconj|because .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	these . [+ RES]
+%mor:	pron|this-Dem-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay . [+ RES]
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	put these in the mailbox .
+%mor:	verb|put-Fin-Imp-S pron|this-Dem-P1 adp|in det|the-Def-Art noun|mailbox .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*CHI:	in the mailbox .
+%mor:	adp|in det|the-Def-Art noun|mailbox .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	may have that [= check] ?
+%mor:	aux|may-Fin-S verb|have-Inf-S pron|that-Dem-S1 ?
+%gra:	1|2|AUX 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I have put that in .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|put-Part-Past-S pron|that-Dem-S1 adv|in .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	I have put that in first .
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|put-Part-Past-S pron|that-Dem-S1 adp|in adv|first .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	I don('t) want envelope .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S noun|envelope .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	not envelope .
+%mor:	part|not noun|envelope .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx play with that paper .
+%mor:	verb|play-Fin-Imp-S adp|with det|that-Def-Dem noun|paper .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*CHI:	no (.) Eve . [+ RES]
+%mor:	det|no-Def noun|Eve .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	I putting din@c .
+%mor:	pron|I-Prs-Nom-S1 verb|put-Ger-S noun|din .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	oh (.) I dropped one .
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|drop-Fin-Ind-Past-S1 num|one .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	xxx mailbox go xxx sen(d) it .
+%mor:	noun|mailbox verb|go-Fin-Imp-S verb|send-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PARATAXIS 4|3|OBJ 5|2|PUNCT
+*CHI:	oh (.) Pap (.) you put in .
+%mor:	intj|oh noun|pap pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2 adv|in .
+%gra:	1|2|DISCOURSE 2|4|VOCATIVE 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	Papa (.) you put those in .
+%mor:	noun|Papa pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2 pron|that-Dem-P1 adv|in .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	put that in .
+%mor:	verb|put-Fin-Imp-S pron|that-Dem-S1 adv|in .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*CHI:	no (.) we have put those in first .
+%mor:	intj|no pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Pres-P1 verb|put-Part-Past-S pron|that-Dem-P1 adp|in adj|first-Pos-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*CHI:	we have put those in first .
+%mor:	pron|we-Prs-Nom-P1 aux|have-Fin-Ind-Pres-P1 verb|put-Part-Past-S pron|that-Dem-P1 adp|in adj|first-Pos-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	Pap have fix the box (be)cause it broke . [+ IMIT]
+%mor:	noun|pap aux|have-Fin-Ind-Pres-P3 verb|fix-Inf-S det|the-Def-Art noun|box sconj|because pron|it-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|MARK 7|8|NSUBJ 8|3|ADVCL 9|3|PUNCT
+*CHI:	I go put (.) in .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|put-Part-Past-S adv|in .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+*CHI:	more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I taking more .
+%mor:	pron|I-Prs-Nom-S1 verb|take-Ger-S adj|more-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	those stuck . [+ RES]
+%mor:	pron|that-Dem-P1 adj|stuck-Pos-S1 .
+%gra:	1|2|ROOT 2|1|ACL 3|1|PUNCT
+*CHI:	we go walk (.) yesterday . [+ RES]
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 verb|walk-Inf-S noun|yesterday .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBL-TMOD 5|2|PUNCT
+*CHI:	Fraser (.) my pencil broke .
+%mor:	noun|Fraser pron|my-Prs-Gen-S1 noun|pencil verb|break-Fin-Ind-Past-S3 .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|4|NSUBJ 4|1|PARATAXIS 5|1|PUNCT
+*CHI:	I go bring you briefcase .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Pres-S1 verb|bring-Inf-S pron|you-Prs-Gen-S2 noun|briefcase .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|XCOMP 4|5|NMOD-POSS 5|3|OBJ 6|2|PUNCT
+*CHI:	no daddy in there (.) Fraser . [+ RES]
+%mor:	det|no-Def noun|daddy adp|in adv|there noun|Fraser .
+%gra:	1|2|DET 2|5|ROOT 3|4|CASE 4|2|NMOD 5|2|NMOD 6|2|PUNCT
+*CHI:	Cromer have bring on Wednesday .
+%mor:	noun|Cromer aux|have-Fin-Ind-Pres-P3 verb|bring-Inf-S adp|on noun|Wednesday .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT

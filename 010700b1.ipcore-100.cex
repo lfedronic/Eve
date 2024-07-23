@@ -1,0 +1,300 @@
+*CHI:	peep@o [/] peep@o .
+%mor:	noun|peep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	blocks . [+ RES]
+%mor:	noun|block-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one .
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	one (.) two (.) three (.) four (.) eight (.) eight (.) nine (.) ten (.) eight (.) nine (.) ten .
+%mor:	num|one num|two num|three num|four num|eight num|eight num|nine num|ten num|eight num|nine num|ten .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|11|ROOT 4|3|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|8|COMPOUND 8|9|COMPOUND 9|11|NUMMOD 10|11|COMPOUND 11|3|CONJ 12|3|PUNCT
+*CHI:	eight .
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eight (.) nine (.) ten .
+%mor:	num|eight num|nine num|ten .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	one (.) six (.) eight (.) nine (.) six . [+ RES]
+%mor:	num|one num|six num|eight num|nine num|six .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|COMPOUND 4|5|NUMMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	fall .
+%mor:	noun|fall .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	seven (.) eight (.) nine .
+%mor:	num|seven num|eight num|nine .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	two ah (.) drop .
+%mor:	num|two intj|ah noun|drop .
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	one (.) two (.) three (.) go .
+%mor:	num|one num|two num|three noun|go .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	throw [/] throw .
+%mor:	verb|throw-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I get it .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	make block .
+%mor:	verb|make-Fin-Imp-S noun|block .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	good .
+%mor:	adj|good-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ah .
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	good there (.) pick (.) up .
+%mor:	adj|good-Pos-S1 adv|there verb|pick-Fin-Ind-S adp|up .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|1|PARATAXIS 4|3|COMPOUND-PRT 5|1|PUNCT
+*CHI:	up (.) pick up .
+%mor:	adv|up verb|pick-Fin-Imp-S adp|up .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	thank_you (.) Cromer .
+%mor:	noun|thankyou noun|Cromer .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	thank_you .
+%mor:	noun|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sit by you . [+ IMIT]
+%mor:	verb|sit-Fin-Imp-S adp|by pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*CHI:	man by you .
+%mor:	noun|man adp|by pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	big tower . [+ IMIT]
+%mor:	adj|big-Pos-S1 noun|tower .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve make tower .
+%mor:	noun|Eve verb|make-Fin-Imp-S noun|tower .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	taperecorder . [+ IMIT]
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hi . [+ IMIT]
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	running .
+%mor:	noun|running .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve .
+%mor:	noun|Eve .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more grape juice .
+%mor:	adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy more milk .
+%mor:	noun|Mommy adj|more-Cmp-S1 noun|milk .
+%gra:	1|3|COMPOUND 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	grape juice .
+%mor:	noun|grape noun|juice .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy more &~m grape juice .
+%mor:	noun|Mommy adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|2|OBL-NPMOD 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	that Cromer coffee .
+%mor:	sconj|that noun|Cromer noun|coffee .
+%gra:	1|3|MARK 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Fraser . [+ IMIT]
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cromer day . [+ IMIT]
+%mor:	noun|Cromer noun|day .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	there Fraser pencil . [+ IMIT]
+%mor:	pron|there-Prs-Gen-S3 noun|Fraser noun|pencil .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	that Fraser pencil .
+%mor:	sconj|that noun|Fraser noun|pencil .
+%gra:	1|3|MARK 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	want juice pencil .
+%mor:	verb|want-Fin-Imp-S noun|juice noun|pencil .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wrote a pencil .
+%mor:	verb|write-Fin-Ind-Past-S1 det|a-Ind-Art noun|pencil .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	I drop pencil .
+%mor:	pron|I-Prs-Nom-S1 verb|drop-Fin-Ind-Pres-S1 noun|pencil .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	sugar .
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all_gone .
+%mor:	noun|allgone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all_gone (.) write .
+%mor:	noun|allgone noun|write .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	I write this paper .
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Pres-S1 det|this-Def-Dem noun|paper .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	on this [!!] paper .
+%mor:	adp|on det|this-Def-Dem noun|paper .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	see it paper .
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3 noun|paper .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*CHI:	turn the page .
+%mor:	verb|turn-Fin-Imp-S det|the-Def-Art noun|page .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	now turn the page .
+%mor:	adv|now verb|turn-Fin-Imp-S det|the-Def-Art noun|page .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	Mummy .
+%mor:	noun|mummy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	want a graham_cracker .
+%mor:	verb|want-Fin-Imp-S det|a-Ind-Art noun|grahamcracker .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	pudding lunch . [+ IMIT]
+%mor:	noun|pudding noun|lunch .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	pudding .
+%mor:	noun|pudding .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no . [+ RES]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no supper . [+ RES]
+%mor:	det|no-Def noun|supper .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	mac(aroni) supper .
+%mor:	noun|macaroni noun|supper .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	(.) soup lunch .
+%mor:	noun|soup noun|lunch .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	fun .
+%mor:	adj|fun-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	celery .
+%mor:	noun|celery .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	soup . [+ RES]
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cheese . [+ RES]
+%mor:	noun|cheese .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	milk . [+ IMIT]
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay no . [+ IMIT]
+%mor:	intj|okay intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that taperecorder (.) floor .
+%mor:	det|that-Def-Dem noun|taperecorder noun|floor .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	fish swimming .
+%mor:	noun|fish noun|swim .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	write .
+%mor:	verb|write-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there feet [/] feet now .
+%mor:	pron|there-Prs-Gen-S3 noun|foot-Plur adv|now .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	now .
+%mor:	adv|now .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	good [/] good fall .
+%mor:	adj|good-Pos-S1 noun|fall .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx all .
+%mor:	det|all-Def .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	two (.) three (.) go .
+%mor:	num|two num|three noun|go .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	go .
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy xxx Empa [= Emerson] .
+%mor:	noun|Daddy noun|Empa .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	Papa Emma [: Emerson] [*] .
+%mor:	noun|Papa noun|Emerson .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	David Empa [: Emerson] . [+ IMIT]
+%mor:	noun|David noun|Emerson .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	right .
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tinkertoy round .
+%mor:	noun|tinkertoy adv|round .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	careful drop it . [+ IMIT]
+%mor:	adj|careful-Pos-S1 verb|drop-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|AMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a block .
+%mor:	det|a-Ind-Art noun|block .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	round tinkertoy .
+%mor:	adj|round-Pos-S1 noun|tinkertoy .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	round tinker . [+ RES]
+%mor:	adj|round-Pos-S1 noun|tinker .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	two tinkertoy .
+%mor:	num|two noun|tinkertoy .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	how many block . [+ IMIT]
+%mor:	adv|how adj|many-Pos-S1 noun|block .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	there Mommy .
+%mor:	pron|there-Int-S1 noun|Mommy .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy right back . [+ IMIT]
+%mor:	noun|Mommy adv|right adv|back .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*CHI:	xxx Cromer . [+ IMIT]
+%mor:	noun|Cromer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cromer pencil .
+%mor:	noun|Cromer noun|pencil .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve finger .
+%mor:	noun|Eve noun|finger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	finger .
+%mor:	noun|finger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I see Eve . [+ IMIT]
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|Eve .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	back .
+%mor:	adv|back .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Cromer lap . [+ RES]
+%mor:	noun|Cromer noun|lap .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	sit down lap .
+%mor:	verb|sit-Fin-Imp-S adp|down noun|lap .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx down .
+%mor:	adv|down .
+%gra:	1|1|ROOT 2|1|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	hm: ? [+ RES]
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	paper . [+ RES]
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh paper cheese .
+%mor:	intj|oh noun|paper noun|cheese .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	a paper cheese . [+ RES]
+%mor:	det|a-Ind-Art noun|paper noun|cheese .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	tapioca .
+%mor:	noun|tapioca .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve lunch .
+%mor:	noun|Eve noun|lunch .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more tapioca . [+ RES]
+%mor:	adj|more-Cmp-S1 noun|tapioca .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy came back . [+ RES]
+%mor:	noun|Mommy verb|come-Fin-Ind-Past-S3 adv|back .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	right . [+ RES]
+%mor:	adv|right .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(ex)cuse me . [+ IMIT]
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*CHI:	Eve more (.) grape juice . [+ IMIT]
+%mor:	noun|Eve adj|more-Cmp-S1 noun|grape noun|juice .
+%gra:	1|2|OBL-NPMOD 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve have (.) that .
+%mor:	noun|Eve verb|have-Fin-Ind-S pron|that-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mommy . [+ RES]
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy napkin . [+ RES]
+%mor:	noun|Mommy noun|napkin .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx Fraser napkin . [+ IMIT]
+%mor:	noun|Fraser noun|napkin .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	sugar there .
+%mor:	noun|sugar adv|there .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	Eve hi .
+%mor:	noun|Eve intj|hi .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	Eve [/] (.) Eve [/] (.) Eve run Papa study .
+%mor:	noun|Eve verb|run-Fin-S noun|Papa noun|study .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	right Papa study .
+%mor:	adj|right-Pos-S1 noun|Papa noun|study .
+%gra:	1|3|AMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	Eve hi (.) Fraser .
+%mor:	noun|Eve intj|hi noun|Fraser .
+%gra:	1|3|ROOT 2|1|GOESWITH 3|1|FLAT 4|1|PUNCT
+*CHI:	Eve hi Cromer .
+%mor:	noun|Eve intj|hi noun|Cromer .
+%gra:	1|3|ROOT 2|1|GOESWITH 3|1|FLAT 4|1|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve need [//] Ann need Mommy napkin .
+%mor:	noun|Eve noun|Ann verb|need-Fin-Ind-Pres-S noun|Mommy noun|napkin .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*CHI:	Eve graham_cracker . [+ RES]
+%mor:	noun|Eve noun|grahamcracker .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a Christmas tree . [+ IMIT]
+%mor:	det|a-Ind-Art noun|Christmas noun|tree .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx Christmas tree cookie .
+%mor:	noun|Christmas noun|tree noun|cookie .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	nut . [+ IMIT]
+%mor:	noun|nut .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy (.) that ?
+%mor:	noun|Mommy pron|that-Dem-S1 ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	Christmas xxx .
+%mor:	noun|Christmas .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve stand up Mommy stool .
+%mor:	noun|Eve verb|stand-Fin-Imp-S adp|up noun|Mommy noun|stool .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*CHI:	move Mommy . [+ IMIT]
+%mor:	verb|move-Inf-S noun|Mommy .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Eve climb down .
+%mor:	noun|Eve verb|climb-Inf-Imp-S adv|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	Eve stool .
+%mor:	noun|Eve noun|stool .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx beep@o [/] beep@o . [+ RES]
+%mor:	noun|beep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my way . [+ RES]
+%mor:	pron|my-Prs-Gen-S1 noun|way .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve sit down .
+%mor:	noun|Eve verb|sit-Fin-Imp-S adp|down .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	icing . [+ IMIT]
+%mor:	noun|icing .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Christmas tree cookies . [+ RES]
+%mor:	noun|Christmas noun|tree noun|cookie-Plur .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	forgot grape juice table . [+ RES]
+%mor:	verb|forget-Fin-Ind-Past-S1 noun|grape noun|juice noun|table .
+%gra:	1|4|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	(.) forgot Christmas tree cookie .
+%mor:	verb|forget-Fin-Ind-Past-S1 noun|Christmas noun|tree noun|cookie .
+%gra:	1|4|ROOT 2|4|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	go Christmas tree .
+%mor:	verb|go-Fin-Imp-S noun|Christmas noun|tree .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	Eve have Christmas tree .
+%mor:	noun|Eve verb|have-Fin-Ind-Pres-S3 noun|Christmas noun|tree .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	see it .
+%mor:	verb|see-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	(.) grape juice all_gone .
+%mor:	noun|grape noun|juice noun|allgone .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	my . [+ RES]
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no . [+ RES]
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	empty . [+ IMIT]
+%mor:	adj|empty-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<hi hi hi hi> [/] hi wait a minute (.) more .
+%mor:	intj|hi verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute adj|more-Cmp-S1 .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|DET 4|5|NMOD-NPMOD 5|2|OBJ 6|2|PUNCT
+*CHI:	wait a minute (.) Fraser .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute noun|Fraser .
+%gra:	1|4|ROOT 2|3|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	wait a minute (.) Cromer .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute noun|Cromer .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|OBJ 5|1|PUNCT
+*CHI:	Eve wait (.) Cromer .
+%mor:	noun|Eve verb|wait-Fin-Imp-S noun|Cromer .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve under (.) Cromer . [+ RES]
+%mor:	noun|Eve adp|under noun|Cromer .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	behind [/] behind .
+%mor:	adv|behind .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	behind Cromer .
+%mor:	adp|behind noun|Cromer .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve behind Cromer .
+%mor:	noun|Eve adp|behind noun|Cromer .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	jump .
+%mor:	verb|jump-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	jump couch .
+%mor:	verb|jump-Inf-Imp-S noun|couch .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Eve (be)hind Cromer again .
+%mor:	noun|Eve adp|behind noun|Cromer adv|again .
+%gra:	1|4|ROOT 2|3|CASE 3|1|NMOD 4|1|ADVMOD 5|1|PUNCT
+*CHI:	peekaboo .
+%mor:	noun|peekaboo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hi Cromer .
+%mor:	intj|hi noun|Cromer .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	oh (.) boom@o .
+%mor:	intj|oh noun|boom .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	taperecorder .
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	an(d) that a taperecorder .
+%mor:	cconj|and sconj|that det|a-Ind-Art noun|taperecorder .
+%gra:	1|4|CC 2|4|DET 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	what doing (.) Mommy ?
+%mor:	pron|what-Int-S1 verb|do-Ger-S noun|Mommy ?
+%gra:	1|3|ROOT 2|1|ACL 3|2|OBJ 4|1|PUNCT
+*CHI:	make (.) cookie (.) Eve . [+ IMIT]
+%mor:	verb|make-Fin-Imp-S noun|cookie noun|Eve .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+*CHI:	make a cookie (.) Eve . [+ IMIT]
+%mor:	verb|make-Fin-Imp-S det|a-Ind-Art noun|cookie noun|Eve .
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*CHI:	Eve have a . [+ IMIT]
+%mor:	noun|Eve verb|have-Fin-Ind-Pres-S det|a-Ind-Art .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	have xxx . [+ RES]
+%mor:	verb|have-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	have a . [+ RES]
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	want more .
+%mor:	verb|want-Fin-Imp-S adj|more-Cmp-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	Eve stove .
+%mor:	noun|Eve noun|stove .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve stove cookie (.) Christmas cookie .
+%mor:	noun|Eve noun|stove noun|cookie noun|Christmas noun|cookie .
+%gra:	1|5|COMPOUND 2|3|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*CHI:	Mom help Christmas tree .
+%mor:	noun|mom verb|help-Fin-Ind-S noun|Christmas noun|tree .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve have it . [+ IMIT]
+%mor:	noun|Eve verb|have-Fin-Ind-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve have (a)gain .
+%mor:	noun|Eve verb|have-Fin-Ind-Pres-S adv|again .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	Eve have a (a)gain .
+%mor:	noun|Eve verb|have-Fin-Ind-S det|a-Ind-Art adv|again .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|ADVMOD 5|2|PUNCT
+*CHI:	Mommy ?
+%mor:	noun|Mommy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that Mommy .
+%mor:	sconj|that noun|Mommy .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Eve down . [+ IMIT]
+%mor:	noun|Eve adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	get down xxx the stool .
+%mor:	verb|get-Fin-Imp-S adp|down det|the-Def-Art noun|stool .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	Eve xxx the stool .
+%mor:	noun|Eve det|the-Def-Art noun|stool .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	new one . [+ IMIT]
+%mor:	adj|new-Pos-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Humm . [+ RES]
+%mor:	noun|Humm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yes . [+ RES]
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fish .
+%mor:	noun|fish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kitty . [+ RES]
+%mor:	noun|kitty .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hamster . [+ RES]
+%mor:	noun|hamster .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Humm_hamster . [+ IMIT]
+%mor:	noun|Hummhamster .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx play sandbox . [+ RES]
+%mor:	verb|play-Fin-Imp-S noun|sandbox .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	clock . [+ RES]
+%mor:	noun|clock .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look (.) (a)gain .
+%mor:	verb|look-Fin-Imp-S adv|again .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	banana . [+ RES]
+%mor:	noun|banana .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	parsley .
+%mor:	noun|parsley .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	peanut_butter .
+%mor:	noun|peanutbutter .
+%gra:	1|1|ROOT 2|1|PUNCT

@@ -1,0 +1,300 @@
+*CHI:	more cookie . [+ IMP]
+%mor:	adj|more-Cmp-S1 noun|cookie .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	more juice ?
+%mor:	adj|more-Cmp-S1 noun|juice ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Fraser . [+ IMIT]
+%mor:	noun|Fraser .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx (th)at ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a fly . [+ RES]
+%mor:	det|a-Ind-Art noun|fly .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	fly . [+ IMIT]
+%mor:	verb|fly-Inf-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy telephone .
+%mor:	noun|Mommy noun|telephone .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	my telephone .
+%mor:	pron|my-Prs-Gen-S1 noun|telephone .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man [/] man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	block broke .
+%mor:	noun|block noun|break .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	there [!!] .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I did it .
+%mor:	pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	there Fraser .
+%mor:	pron|there-Int-S1 noun|Fraser .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+*CHI:	baby .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy read .
+%mor:	noun|Mommy verb|read-Fin-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	a stool .
+%mor:	det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	<little little little> [/] little . [+ IMIT]
+%mor:	adj|little-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	milk ?
+%mor:	noun|milk ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<milk milk> [/] milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser water ?
+%mor:	noun|Fraser noun|water ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	oh Fraser .
+%mor:	intj|oh noun|Fraser .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	bye . [+ RES]
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx water .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser water .
+%mor:	noun|Fraser noun|water .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx Fraser coffee .
+%mor:	noun|Fraser noun|coffee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	down [/] down . [+ IMIT]
+%mor:	adv|down .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cookie . [+ IMIT]
+%mor:	noun|cookie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read the puzzle .
+%mor:	verb|read-Fin-Imp-S det|the-Def-Art noun|puzzle .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Racketyboom .
+%mor:	noun|Racketyboom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hat . [+ RES]
+%mor:	noun|hat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	m:hm [?] .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bottle . [+ RES]
+%mor:	noun|bottle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Fraser hat .
+%mor:	noun|Fraser noun|hat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	oh Fraser hat .
+%mor:	intj|oh noun|Fraser noun|hat .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	eye .
+%mor:	noun|eye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	soldier .
+%mor:	noun|soldier .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve find it .
+%mor:	noun|Eve verb|find-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve .
+%mor:	noun|Eve .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	busy . [+ IMIT]
+%mor:	adj|busy-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man a pencil .
+%mor:	noun|man det|a-Ind-Art noun|pencil .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	pencil .
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Eve pencil .
+%mor:	noun|Eve noun|pencil .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx see ya . [+ RES]
+%mor:	verb|see-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx read . [+ RES]
+%mor:	verb|read-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Clip_clop .
+%mor:	noun|Clipclop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	shoe [/] shoe .
+%mor:	noun|shoe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<my my my> [/] my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy book .
+%mor:	noun|Mommy noun|book .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	read ?
+%mor:	verb|read-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read choo_choo .
+%mor:	verb|read-Fin-Imp-S noun|choochoo .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	<choo_choochoo_choo> [/] choo_choo .
+%mor:	noun|choochoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	cup .
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx top .
+%mor:	noun|top .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	quack@o [/] quack@o . [+ RES]
+%mor:	noun|quack .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that radio . [+ RES]
+%mor:	det|that-Def-Dem noun|radio .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	like the farm .
+%mor:	adp|like det|the-Def-Art noun|farm .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	cock_a_doodle_doo .
+%mor:	noun|cockadoodledoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	book .
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	stool [/] stool .
+%mor:	noun|stool .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man stool ?
+%mor:	noun|man noun|stool ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Neil sit .
+%mor:	noun|Neil verb|sit-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Neil sit ?
+%mor:	noun|Neil verb|sit-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	sit .
+%mor:	verb|sit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy !
+%mor:	noun|Mommy !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	get it .
+%mor:	verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	good girl .
+%mor:	adj|good-Pos-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	<Neil sit> [/] Neil sit that ?
+%mor:	noun|Neil verb|sit-Fin-Ind-Pres-S3 pron|that-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Eve seat . [+ IMIT]
+%mor:	noun|Eve noun|seat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Sambo .
+%mor:	noun|sambo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	why .
+%mor:	adv|why .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	head . [+ RES]
+%mor:	noun|head .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	paper . [+ RES]
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	lie down stool .
+%mor:	verb|lie-Fin-Imp-S adp|down noun|stool .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*CHI:	Eve writing .
+%mor:	noun|Eve noun|writing .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	write xxx too . [+ IMIT]
+%mor:	verb|write-Fin-Imp-S adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	write a paper . [+ IMIT]
+%mor:	verb|write-Fin-Imp-S det|a-Ind-Art noun|paper .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	that pencil .
+%mor:	det|that-Def-Dem noun|pencil .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	cheese ?
+%mor:	noun|cheese ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx man ?
+%mor:	noun|man ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	soup .
+%mor:	noun|soup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx pudding . [+ IMIT]
+%mor:	noun|pudding .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy ?
+%mor:	noun|Mommy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more pudding . [+ IMIT]
+%mor:	adj|more-Cmp-S1 noun|pudding .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	hot .
+%mor:	adj|hot-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	taperecorder men taperecorder .
+%mor:	noun|taperecorder noun|man-Plur noun|taperecorder .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	taperecorder . [+ IMIT]
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<taperecorder> [/] taperecorder xxx man xxx taperecorder . [+ IMIT]
+%mor:	noun|taperecorder noun|man noun|taperecorder .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	down xxx down .
+%mor:	adv|down adv|down .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	car coming .
+%mor:	noun|car noun|coming .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	car come .
+%mor:	noun|car verb|come-Fin-Imp-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	come car .
+%mor:	verb|come-Fin-Imp-S noun|car .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	dolly celery .
+%mor:	noun|dolly noun|celery .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	doll eat .
+%mor:	noun|doll noun|eat .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	the [?] dolly .
+%mor:	det|the-Def-Art noun|dolly .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT

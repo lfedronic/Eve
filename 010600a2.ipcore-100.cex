@@ -1,0 +1,300 @@
+*CHI:	dolly . [+ RES]
+%mor:	noun|dolly .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx find it . [+ RES]
+%mor:	verb|find-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	you <find it xxx> [//] find it .
+%mor:	pron|you-Prs-Nom-S2 verb|find-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a shoe .
+%mor:	det|a-Ind-Art noun|shoe .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	dolly shoe .
+%mor:	noun|dolly noun|shoe .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look . [+ IMP]
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	that ?
+%mor:	pron|that-Dem-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where top ?
+%mor:	adv|where noun|top ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	top .
+%mor:	noun|top .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	spoon . [+ RES]
+%mor:	noun|spoon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man no spoon .
+%mor:	noun|man det|no-Def noun|spoon .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	coffee ?
+%mor:	noun|coffee ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my [= mine] .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh thank .
+%mor:	intj|oh verb|thank-Fin-Ind-Pres-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*CHI:	that .
+%mor:	pron|that-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<a top a top> [/] a top .
+%mor:	det|a-Ind-Art noun|top .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	good .
+%mor:	adj|good-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man taste it ?
+%mor:	noun|man verb|taste-Fin-Imp-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	man taste it .
+%mor:	noun|man verb|taste-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	man no [?] taste it .
+%mor:	noun|man det|no-Def noun|taste pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|DET 3|4|ROOT 4|3|NMOD-NPMOD 5|3|PUNCT
+*CHI:	why ?
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mouth . [+ IMIT]
+%mor:	noun|mouth .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	taste it .
+%mor:	verb|taste-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	careful .
+%mor:	adj|careful-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man no taste it ?
+%mor:	noun|man det|no-Def noun|taste pron|it-Prs-Acc-S3 ?
+%gra:	1|3|NSUBJ 2|3|DET 3|4|ROOT 4|3|NMOD-NPMOD 5|3|PUNCT
+*CHI:	sure . [+ IMIT]
+%mor:	adj|sure-Pos-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	man no sure .
+%mor:	noun|man adv|no adj|sure-Pos-S1 .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	taste it ?
+%mor:	verb|taste-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	change your record ? [+ IMIT]
+%mor:	verb|change-Fin-Imp-S pron|your-Prs-Gen-S2 noun|record ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	a top ?
+%mor:	det|a-Ind-Art noun|top ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	drop .
+%mor:	verb|drop-Inf-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a table .
+%mor:	det|a-Ind-Art noun|table .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	man fireplace .
+%mor:	noun|man noun|fireplace .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	telephone .
+%mor:	noun|telephone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Granma .
+%mor:	noun|Granma .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy .
+%mor:	noun|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . [+ RES]
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	kitchen . [+ IMIT]
+%mor:	noun|kitchen .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	pencil .
+%mor:	noun|pencil .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a pencil .
+%mor:	det|a-Ind-Art noun|pencil .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	milk [/] milk . [+ IMP]
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Cromer .
+%mor:	noun|Cromer .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a coffee .
+%mor:	det|a-Ind-Art noun|coffee .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Fraser coffee .
+%mor:	noun|Fraser noun|coffee .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Becky .
+%mor:	noun|Becky .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	arm ?
+%mor:	noun|arm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	arm .
+%mor:	noun|arm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy letter pencil .
+%mor:	noun|Mommy noun|letter noun|pencil .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	head .
+%mor:	noun|head .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I fall . [+ RES]
+%mor:	pron|I-Prs-Nom-S1 verb|fall-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	cup .
+%mor:	noun|cup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a cup .
+%mor:	det|a-Ind-Art noun|cup .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	write [/] write .
+%mor:	verb|write-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	juice .
+%mor:	noun|juice .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	an(d) juice .
+%mor:	cconj|and noun|juice .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*CHI:	more juice . [+ IMP]
+%mor:	adj|more-Cmp-S1 noun|juice .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy juice [= Mommy's getting me juice] .
+%mor:	noun|Mommy noun|juice .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	a cough .
+%mor:	det|a-Ind-Art noun|cough .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yep . [+ RES]
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<Mommy stair> [?] .
+%mor:	noun|Mommy noun|stair .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx do it .
+%mor:	verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	man .
+%mor:	noun|man .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	banjo !
+%mor:	noun|banjo !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sambo .
+%mor:	noun|sambo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	coffee .
+%mor:	noun|coffee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<Sambo xxx> [//] Sambo down ?
+%mor:	noun|sambo adv|down ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	down ?
+%mor:	adv|down ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	finger .
+%mor:	noun|finger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	book .
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read . [+ RES]
+%mor:	verb|read-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	more [/] more .
+%mor:	adj|more-Cmp-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	may maybe may .
+%mor:	aux|may-Fin-S adv|maybe aux|may-Fin-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	paper .
+%mor:	noun|paper .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the paper .
+%mor:	det|the-Def-Art noun|paper .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	table . [+ RES]
+%mor:	noun|table .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy (.) pencil .
+%mor:	noun|Mommy noun|pencil .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Daddy .
+%mor:	noun|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx down .
+%mor:	adv|down .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy down ?
+%mor:	noun|Mommy adv|down ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	come down ?
+%mor:	verb|come-Fin-Imp-S adv|down ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	sugar xxx .
+%mor:	noun|sugar .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx have it .
+%mor:	verb|have-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	fall down .
+%mor:	verb|fall-Fin-Imp-S adv|down .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	Mommy turn ?
+%mor:	noun|Mommy verb|turn-Fin-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	water .
+%mor:	noun|water .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	turn ?
+%mor:	verb|turn-Inf-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bring it . [+ IMIT]
+%mor:	verb|bring-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	bye .
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	where Rangy ?
+%mor:	adv|where noun|Rangy ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	stair . [+ IMIT]
+%mor:	noun|stair .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	door .
+%mor:	noun|door .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a Becky .
+%mor:	det|a-Ind-Art noun|Becky .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a Becky Mommy ?
+%mor:	det|a-Ind-Art noun|Becky noun|Mommy ?
+%gra:	1|2|DET 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*CHI:	sit down ?
+%mor:	verb|sit-Fin-Imp-S adv|down ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	room . [+ IMIT]
+%mor:	noun|room .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx Cromer pencil .
+%mor:	noun|Cromer noun|pencil .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
